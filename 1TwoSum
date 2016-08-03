@@ -11,7 +11,7 @@ return [0, 1].
 ```
 给定一个int数组和一个目标值，求数组当中的两个数相加等于目标值的下标。
 
-```java
+```
 public class Sulution{
 	public int[] twosum(int[] nums,int target){
 		int[] res=new int[2];
